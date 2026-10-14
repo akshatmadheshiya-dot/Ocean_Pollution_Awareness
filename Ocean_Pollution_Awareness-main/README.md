@@ -47,7 +47,7 @@ This project presents information about major ocean pollution issues, marine eco
 
 1. Navigate to the project folder:
    ```bash
-   cd /home/apsit/Sahil/Ocean_Pollution_Awareness
+   PS C:\Downloads\Ocean_Pollution_Awareness-main>
    ```
 
 2. Create and activate a virtual environment:
